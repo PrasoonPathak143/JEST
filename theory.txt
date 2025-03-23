@@ -1,0 +1,13 @@
+REST  --  Rules to follow
+
+Plural in routes  -- /users/{id}
+Method selection - - POST, GET, PUT, etc
+Proper routes - 
+user get - /users - GET
+user create - /users - POST
+user update - /users/{id} - PUT
+
+
+Testing - JEST
+
+dev dependency - npm i jest --save-dev
